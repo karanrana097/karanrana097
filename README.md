@@ -8,7 +8,7 @@ Few of my popular projects, libraries & apps are pinned below. Other than Flutte
 
 💬 Mail me at <karanrana1706@gmail.com> or meet me on my [Twitter](https://twitter.com/karanrana097) if you wish to hire me.
 
-![](https://github.com/alexmercerind/github-stats/blob/master/generated/overview.svg?raw=true)
-![](https://github.com/alexmercerind/github-stats/blob/master/generated/languages.svg?raw=true)
+![](https://github.com/karanrana097/github-stats/blob/master/generated/overview.svg?raw=true)
+![](https://github.com/karanrana097/github-stats/blob/master/generated/languages.svg?raw=true)
 
-🌟 You should consider [sponsoring my open-source work](https://github.com/sponsors/alexmercerind), if you find my software / libraries useful.
+🌟 You should consider [sponsoring my open-source work](https://github.com/sponsors/karanrana097), if you find my software / libraries useful.
