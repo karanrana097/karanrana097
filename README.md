@@ -4,7 +4,7 @@ I'm [**Karan Rana**](https://github.com/karanrana097) ([@karanrana097](https://g
 
 I have knowledge of **Flutter** & **React.js** . I mainly write **C++, Dart, Python & JavaScript**. 
 
-Few of my popular projects, libraries & apps are pinned below. Other than Flutter & React, I enjoy writing native C++ Windows (Win32, C++/WinRT) & Linux code (as used in my Flutter plugins & other libraries), dealing with audio/video playback, reverse engineering APIs & webscraping. I have good knowledge of object oriented programming, multi-threading & asynchrony as-well.
+
 
 💬 Mail me at <karanrana1706@gmail.com> or meet me on my [Linkedin](https://www.linkedin.com/in/karanrana097/) if you wish to hire me.
 
